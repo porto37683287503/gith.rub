@@ -1,0 +1,6 @@
+let numb1 = 10;
+let numb2 = 5;
+
+let soma = numb1 + numb2;
+console.log(` A soma de ${numb1} + ${numb2 } é igual a ${soma}😊`)
+
